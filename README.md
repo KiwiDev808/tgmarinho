@@ -1,3 +1,6 @@
+<img width="auto" height="170px" src="./banner.png">
+
+
 # Seu nome aqui
 
 ## Olá pessoal 👋
