@@ -1,9 +1,7 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Thiago Marinho
-
-## Olá pessoal 👋
+## Olá pessoal, Thiago Marinho aqui 👋 
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
