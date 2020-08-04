@@ -1,4 +1,4 @@
-<img width="auto" height="170px" src="banner.png">
+<img width="auto"  src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
 # Seu nome aqui
